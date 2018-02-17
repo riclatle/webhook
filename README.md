@@ -1,9 +1,6 @@
 {
   "action": "created",
-  "comment": {
-    "url": "https://api.github.com/repos/baxterthehacker/public-repo/comments/11056394",
-    "html_url": "https://github.com/baxterthehacker/public-repo/commit/9049f1265b7d61be4a8904a9a27120d2064dab3b#commitcomment-11056394",
-    "id": 11056394,
+  "comment": { "Привет миру!"
     "user": {
       "login": "baxterthehacker",
       "id": 6752317,
